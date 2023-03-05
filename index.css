@@ -10,6 +10,11 @@ main {
   margin-top: 10px;
   flex-grow: 1;
 }
+#main3{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 #rubrikdiv {
   order: 2;
 }
