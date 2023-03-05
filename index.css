@@ -2,6 +2,7 @@ body {
   margin: 0;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
+  min-height: 100vh;
 }
 main {
   margin-top: 10px;
