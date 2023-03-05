@@ -3,9 +3,12 @@ body {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 main {
   margin-top: 10px;
+  flex-grow: 1;
 }
 #rubrikdiv {
   order: 2;
