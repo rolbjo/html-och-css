@@ -121,10 +121,14 @@ footer a {
   line-height: 5em;
 }
 /* WEBBSIDA 2 */
+#main3{
+    margin-top: 10px;
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+}
 #section3 {
   background-color: beige;
-  display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
 }
